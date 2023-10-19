@@ -1,0 +1,8 @@
+title: Me
+description: A blog powered by Jekyll and GitHub Pages
+url: https://mhall9.github.io/me
+baseurl: /
+# theme:  # If you're using a theme
+markdown: kramdown
+layout: post
+date_format: "%d %B %Y"
