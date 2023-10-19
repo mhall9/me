@@ -6,3 +6,6 @@ baseurl: /
 markdown: kramdown
 layout: post
 date_format: "%d %B %Y"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
